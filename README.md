@@ -1,2 +1,0 @@
-# HooksAuth
-Created with CodeSandbox
